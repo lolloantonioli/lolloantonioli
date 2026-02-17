@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Lorenzo Antonioli - lolloantonioli</h2>
   
-  <p align="center" style="display:inline;">
+  <p align="center">
     <a href="https://www.linkedin.com/in/lorenzo-antonioli-2a0a68245/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
