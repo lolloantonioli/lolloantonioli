@@ -13,7 +13,7 @@
 ---
 
 ### 📝 About Me
-I’m a Computer Science and Engineering student passionate about Computer Networks, Embedded Systems, and emerging technologies such as Cloud, High-Performance and Quantum Computing.
+I’m a Computer Science and Engineering student passionate about Artificial Intelligence, Internet of Things and Distributed Systems. Experienced in collaborative projects involving AI, IoT, Aggregate Programming, game development and DBMS. Selected as a Mentee within the Mentors4U network.
 
 - 📍 **Location:** Cesena, Emilia-Romagna, Italy
 - 🎓 **Education:** University of Bologna
