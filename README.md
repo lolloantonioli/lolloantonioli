@@ -22,8 +22,8 @@ I’m a Computer Science and Engineering student passionate about Artificial Int
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lolloantonioli&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lolloantonioli&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lolloantonioli&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloantonioli&layout=compact&theme=radical" />
 </p>
 
 ---
